@@ -1,4 +1,4 @@
-# Qwen‑GRPO‑PHYBench
+# 🔬 GRPO Fine-Tuning of Qwen3-1.7B on PHYBench Physics Benchmark with CoT Reasoning
 
 Fine‑tuning **Qwen 3‑1.7 B** with **Group Relative Policy Optimization (GRPO)** and **Chain‑of‑Thought (CoT)** prompting on the open‑source **PHYBench** physics reasoning benchmark.
 
