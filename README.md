@@ -81,7 +81,7 @@ w_correct = 0.5   # EED‑style symbolic equivalence
 | Checkpoint        | Mean Total Reward | Format (✓) | Trace ≥ 6 | EED Correct | Notes                      |
 | ----------------- | ----------------- | ---------- | --------- | ----------- | -------------------------- |
 | base (zero‑shot)  | 0.19              | 43 %       | 22 %      | 11 %        | Qwen 3‑1.7 B, no fine‑tune |
-| **GRPO‑PHYBench** | **0.74**          | **96 %**   | **88 %**  | **68 %**    | 550 steps, 2×2 batch       |
+| **GRPO‑PHYBench** | **0.54**          | **76 %**   | **68 %**  | **38 %**    | 550 steps, 2×2 batch       |
 
 > *EED correct* uses an expression‑equivalence distance (`sympy.simplify`) plus size‑normalised tolerance.
 
